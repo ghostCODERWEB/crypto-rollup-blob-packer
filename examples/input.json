@@ -1,0 +1,19 @@
+{
+  "capacity": 10,
+  "overhead": 1,
+  "maximum_containers": 2,
+  "payloads": [
+    {
+      "id": "a",
+      "bytes": 6
+    },
+    {
+      "id": "b",
+      "bytes": 4
+    },
+    {
+      "id": "c",
+      "bytes": 3
+    }
+  ]
+}

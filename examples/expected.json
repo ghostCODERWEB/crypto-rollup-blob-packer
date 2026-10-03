@@ -1,0 +1,23 @@
+{
+  "container_count": 2,
+  "containers": [
+    {
+      "payloads": [
+        "a",
+        "c"
+      ],
+      "unused": 0,
+      "used": 10
+    },
+    {
+      "payloads": [
+        "b"
+      ],
+      "unused": 5,
+      "used": 5
+    }
+  ],
+  "payload_bytes": 13,
+  "rejected": [],
+  "unused_bytes": 5
+}
